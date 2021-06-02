@@ -45,13 +45,13 @@ h1::after {
 		blinking var(--cursor-blink-speed) steps(var(--typewriter-steps)) infinite;
 }
 
-.subtitle {
+p {
 	color: hsl(0 0% 0% / 0.7);
 	font-size: 2rem;
 	font-weight: 400;
 	opacity: 0;
 	transform: translateY(3rem);
-	animation: fadeInUp 2s ease calc(var(--typewriter-speed)+ 2s) forwards;
+	animation: fadeInUp 2s ease calc(var(--typewriter-speed) + 2s) forwards;
 	/* added 2s delay to account for the 1 sec delay from typewriter animation and last 1s to allow some time between typewriter and fadeInUp */
 }
 
@@ -70,6 +70,6 @@ h1::after {
 @keyframes fadeInUp {
 	to {
 		opacity: 1;
-		transform: translateY();
+		transform: translateY(0);
 	}
 }
