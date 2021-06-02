@@ -1,3 +1,3 @@
 Typewriter_Pure_CSS
 
-![5bwfrn](https://user-images.githubusercontent.com/55736676/120563922-048d0580-c40a-11eb-9d7c-1cb6ffa41fbc.gif)
+![TypeWriter — Mozilla Firefox 2021-06-03 01-14-14](https://user-images.githubusercontent.com/55736676/120565141-b7f6f980-c40c-11eb-8d20-16dbd93cfdf3.gif)
